@@ -1,4 +1,7 @@
 
+/*
+ * Copyright 2025 the original author or authors...
+ */
 package com.neo;
 
 import java.util.regex.Pattern;

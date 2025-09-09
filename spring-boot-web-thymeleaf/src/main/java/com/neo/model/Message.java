@@ -1,3 +1,6 @@
+/*
+ * Copyright 2025 the original author or authors...
+ */
 package com.neo.model;
 
 import java.util.Calendar;
