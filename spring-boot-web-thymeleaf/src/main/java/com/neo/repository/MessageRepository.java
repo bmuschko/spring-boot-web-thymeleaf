@@ -1,4 +1,7 @@
 
+/*
+ * Copyright the orginal author or authors...
+ */
 package com.neo.repository;
 
 import com.neo.model.Message;
